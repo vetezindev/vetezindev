@@ -1,10 +1,6 @@
 <h1 align="center">👋 Hi, I'm VT</h1>
 <h3 align="center">💻 Full-Stack Developer</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full-Stack+Developer;Problem+Solver;Code+Enthusiast" alt="Typing SVG" />
-</p>
-
 ---
 
 ### Frontend
@@ -34,9 +30,5 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=whoissw&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=f0f6fc&text_color=f0f6fc&hide=stars,prs" alt="VT's GitHub stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoissw&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=f0f6fc&text_color=f0f6fc" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=whoissw&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117&title_color=ff6b6b&text_color=ffffff&icon_color=4ecdc4&border_color=ff6b6b&hide=stars,prs" alt="VT's GitHub Stats" />
 </div>
