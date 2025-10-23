@@ -28,3 +28,7 @@
 </p>
 
 ---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=vetezindev&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</div>
