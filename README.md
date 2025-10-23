@@ -7,16 +7,6 @@
 
 ---
 
-## 🚀 About Me
-
--   🔍 Always learning new technologies
--   🧠 Problem-solver, driven by innovation
--   🎯 Delivering clean code
-
----
-
-## 🛠️ Languages and Tools
-
 ### Frontend
 
 <p align="center">
@@ -44,5 +34,9 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=whoissw&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://github-readme-stats.vercel.app/api?username=whoissw&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=f0f6fc&text_color=f0f6fc&hide=stars,prs" alt="VT's GitHub stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoissw&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=f0f6fc&text_color=f0f6fc" alt="Top Languages" />
 </div>
