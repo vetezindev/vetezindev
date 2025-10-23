@@ -28,7 +28,3 @@
 </p>
 
 ---
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=whoissw&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117&title_color=ff6b6b&text_color=ffffff&icon_color=4ecdc4&border_color=ff6b6b&hide=stars,prs" alt="VT's GitHub Stats" />
-</div>
