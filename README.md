@@ -1,37 +1,20 @@
+<h1 align="center">
+  <span style="color: #00f; display: inline-block; overflow: hidden; white-space: nowrap; animation: typing 3s steps(30, end) infinite alternate; font-family: 'JetBrains Mono', monospace;">
+    👋 Ola, eu sou o vt
+  </span>
+</h1>
+
 <style>
-  @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono&display=swap');
-
-  body, p, h1, h2, h3, h4, h5, h6 {
-    font-family: 'JetBrains Mono', monospace !important;
-  }
-
-  .typewriter {
-    color: #00f; /* Blue color */
-    overflow: hidden;
-    white-space: nowrap;
-    margin: 0 auto;
-    display: inline-block;
-  }
-
-  .typewriter span {
-    display: inline-block;
-    animation: typing 3s steps(30, end) infinite alternate,
-               blink-caret 0.5s step-end infinite;
-  }
-
   @keyframes typing {
     0% { width: 0; }
     50% { width: 100%; }
     100% { width: 0; }
   }
-
-  @keyframes blink-caret {
-    from, to { border-color: transparent; }
-    50% { border-color: blue; }
+  body, p, h1, h2, h3 {
+    font-family: 'JetBrains Mono', monospace;
   }
 </style>
 
-<h1 align="center" class="typewriter"><span>👋 Ola, eu sou o vt</span></h1>
 <h3 align="center">💻 Full-Stack Developer</h3>
 
 ---
