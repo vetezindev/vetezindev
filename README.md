@@ -1,6 +1,6 @@
 <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
   <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full-Stack+Developer; Vetezin+Dev" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full-Stack+Developer" alt="Typing SVG" />
   </p>
 </div>
 
