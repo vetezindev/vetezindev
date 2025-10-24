@@ -19,8 +19,4 @@
     <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   </p>
-
-  <div align="center" style="margin-top: 20px;">
-    <img src="https://komarev.com/ghpvc/?username=vetezindev&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" />
-  </div>
 </div>
