@@ -1,19 +1,7 @@
-<h1 align="center">
-  <span style="color: #00f; display: inline-block; overflow: hidden; white-space: nowrap; animation: typing 3s steps(30, end) infinite alternate; font-family: 'JetBrains Mono', monospace;">
-    👋 Ola, eu sou o vt
-  </span>
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full-Stack+Developer;Problem+Solver;Code+Enthusiast;Always+learning+new+things" alt="Typing SVG" />
+</p>
 
-<style>
-  @keyframes typing {
-    0% { width: 0; }
-    50% { width: 100%; }
-    100% { width: 0; }
-  }
-  body, p, h1, h2, h3 {
-    font-family: 'JetBrains Mono', monospace;
-  }
-</style>
 
 <h3 align="center">💻 Full-Stack Developer</h3>
 
